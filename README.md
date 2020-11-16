@@ -1,3 +1,10 @@
+## Discord-Clone
+
+An project of discord-clone built using React, Redux and Firestore. An app which allows instant messaging and digital distribution platform designed for creating communities.
+Redux for data management, Firestore via Firebase for real time database management, React for Front-End Developement and User-Authentication through Google Account authentication.
+
+The following link: https://discord-clone-yt-547d2.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
